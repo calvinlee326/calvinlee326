@@ -4,7 +4,7 @@
 
 I specialize in building reliable backend systems — Django REST APIs, AI-integrated services, Stripe payment flows — and have hands-on QA experience across software, firmware, and automated testing. Currently based in California, open to backend, full-stack, and QA roles.
 
-📧 chunchenglee@outlook.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/chunchenglee326/) &nbsp;|&nbsp; 🌐 [Portfolio](https://calvinlee326.github.io) &nbsp;|&nbsp; 🇺🇸 English · 🇹🇼 Mandarin
+📧 chunchenglee@outlook.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/chunchenglee326/) &nbsp;|&nbsp; 🌐 [Portfolio](https://www.calvinlee-326.com/) &nbsp;|&nbsp; 🇺🇸 English · 🇹🇼 Mandarin
 
 ---
 

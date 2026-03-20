@@ -1,4 +1,4 @@
-# Hi, I'm Calvin (Chun-Cheng) Lee 👋
+# Hi, I'm Chun-Cheng Lee 👋
 
 **Software Engineer · Backend & API Development · QA**
 
@@ -83,11 +83,10 @@ I specialize in building reliable backend systems — Django REST APIs, AI-integ
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=calvinlee326&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calvinlee326&layout=compact&theme=dark&hide_border=true&langs_count=8" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calvinlee326&layout=compact&theme=dark&hide_border=true&langs_count=8"/>
 </p>
 
 ---

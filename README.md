@@ -1,58 +1,123 @@
-# 👋 Hi there, I'm Calvin Lee
+# Hi, I'm Calvin (Chun-Cheng) Lee 👋
 
-### 👨🏻‍💻 About Me
+**Software Engineer · Backend & API Development · QA**
 
-- 💡 I’m a Computer Science graduate with a master's degree and experience in software development.
-- 🌱 I enjoy creating simplified solutions and love exploring new technologies.
-- ✍️ In my free time, I enjoy listening to pop music, playing badminton, and going on trips.
-- 💬 I am actively seeking a role in Software Engineering or Backend Development. Feel free to reach out if you’d like to collaborate, volunteer, or just have an interesting discussion.
+I specialize in building reliable backend systems — Django REST APIs, AI-integrated services, Stripe payment flows — and I care about test quality and shipping production-ready code. Currently based in California, open to backend and full-stack roles.
 
+📧 chunchenglee@outlook.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/chunchenglee326/) &nbsp;|&nbsp; 🌐 [Portfolio](https://calvinlee326.github.io) &nbsp;|&nbsp; 🇺🇸 English · 🇹🇼 Mandarin
 
-### 🛠 Tech Stack
+---
 
-#### Programming Languages
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=FFA518)&nbsp;
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin&logoColor=7F52FF)&nbsp;
+## 💼 Experience
 
-#### Frontend Development
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+| Role | Company | Period |
+|------|---------|--------|
+| **Backend Developer** | Squareone Inc. | Apr 2024 – Present |
+| **Graduate Research Assistant** | Cal Poly Pomona | Feb 2023 – Dec 2023 |
+| **Software QA Engineer** | ViewSonic Corporation | Aug 2021 – Dec 2021 |
+| **Firmware QA Assistant Engineer** | Synaptics Incorporated | Mar 2021 – Apr 2021 |
 
-#### Backend Development
-![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring&logoColor=6DB33F)&nbsp;
-![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django&logoColor=092E20)&nbsp;
+---
+
+## 🛠 Tech Stack
+
+#### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+#### Backend
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+
+#### API & Integrations
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![Webhook](https://img.shields.io/badge/Webhooks-FF6C37?style=flat&logo=postman&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipeline-412991?style=flat&logo=openai&logoColor=white)
+
+#### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![Chrome Extension](https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat&logo=googlechrome&logoColor=white)
 
 #### Databases
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite&logoColor=003B57)&nbsp;
-![MS SQL Server](https://img.shields.io/badge/-MS%20SQL%20Server-333333?style=flat&logo=microsoftsqlserver&logoColor=CC2927)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/MS_SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat&logo=databricks&logoColor=white)
 
-#### Libraries & Frameworks
-![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas&logoColor=150458)&nbsp;
-![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch&logoColor=EE4C2C)&nbsp;
-![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=opencv&logoColor=5C3EE8)&nbsp;
+#### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-#### Tools & Technologies
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=FCC624)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2496ED)&nbsp;
-![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android&logoColor=3DDC84)&nbsp;
+#### AI / ML / CV
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
-#### IDE
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Jupyter Notebook](https://img.shields.io/badge/-JupyterNotebook-333333?style=flat&logo=Jupyter)&nbsp;
+#### Testing & QA
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile/Scrum-009FDA?style=flat&logo=scrumalliance&logoColor=white)
 
+#### Mobile & Other
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white)
 
-### 🤝🏻 Connect with Me
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-<a href="https://www.linkedin.com/in/chunchenglee326/"><img src="https://img.shields.io/badge/-Calvin%20Lee-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:calvinlee326@gmail.com"><img src="https://img.shields.io/badge/-Email me-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://discord.gg/calvinlee326"><img src="https://img.shields.io/badge/-calvinlee326-7289DA?style=flat-square&logo=discord&logoColor=white"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=calvinlee326&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calvinlee326&layout=compact&theme=dark&hide_border=true&langs_count=8" height="165"/>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=calvinlee326&label=Profile%20views&color=0e75b6&style=flat" alt="calvinlee326" /> </p>
+---
+
+## 🎓 Education
+
+- **M.S. Computer Science** — Cal Poly Pomona &nbsp;`GPA 3.86 / 4.0`
+- **B.S. Computer Science** — Tamkang University, Taiwan
+
+## 📜 Certifications
+
+- Meta Back-End Developer Specialization
+- Meta Back-End Developer Capstone
+- Django Web Framework
+- Generative AI for Educators with Gemini
+- AI For Everyone (Andrew Ng)
+- Coding Interview Preparation
+
+---
+
+## 🤝 Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/chunchenglee326/"><img src="https://img.shields.io/badge/LinkedIn-Calvin_Lee-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  &nbsp;
+  <a href="mailto:chunchenglee@outlook.com"><img src="https://img.shields.io/badge/Email-chunchenglee@outlook.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  &nbsp;
+  <a href="mailto:calvinlee326@gmail.com"><img src="https://img.shields.io/badge/Gmail-calvinlee326@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=calvinlee326&label=Profile+views&color=0e75b6&style=flat"/>
+</p>

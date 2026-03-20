@@ -2,20 +2,9 @@
 
 **Software Engineer · Backend & API Development · QA**
 
-I specialize in building reliable backend systems — Django REST APIs, AI-integrated services, Stripe payment flows — and I care about test quality and shipping production-ready code. Currently based in California, open to backend and full-stack roles.
+I specialize in building reliable backend systems — Django REST APIs, AI-integrated services, Stripe payment flows — and have hands-on QA experience across software, firmware, and automated testing. Currently based in California, open to backend, full-stack, and QA roles.
 
 📧 chunchenglee@outlook.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/chunchenglee326/) &nbsp;|&nbsp; 🌐 [Portfolio](https://calvinlee326.github.io) &nbsp;|&nbsp; 🇺🇸 English · 🇹🇼 Mandarin
-
----
-
-## 💼 Experience
-
-| Role | Company | Period |
-|------|---------|--------|
-| **Backend Developer** | Squareone Inc. | Apr 2024 – Present |
-| **Graduate Research Assistant** | Cal Poly Pomona | Feb 2023 – Dec 2023 |
-| **Software QA Engineer** | ViewSonic Corporation | Aug 2021 – Dec 2021 |
-| **Firmware QA Assistant Engineer** | Synaptics Incorporated | Mar 2021 – Apr 2021 |
 
 ---
 

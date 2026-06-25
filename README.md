@@ -79,13 +79,6 @@ I specialize in building reliable backend systems — Django REST APIs, AI-integ
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white)
 
----
-
-## 📊 Profile Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=calvinlee326&theme=onedark&no-frame=true&row=1&column=6"/>
-</p>
 
 ---
 
